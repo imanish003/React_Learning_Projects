@@ -22,3 +22,4 @@ The server is now running at [localhost:3000](localhost:3000)
 
 ## Screenshot
 
+![Voting App](https://raw.githubusercontent.com/Gr8manish/React_Learning_Projects/master/voting_app/screenshots/voting-app.png "Voting App1")
